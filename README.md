@@ -1,6 +1,6 @@
 # RAG Tutorials
 
-A comprehensive implementation of Retrieval-Augmented Generation (RAG) systems with practical examples, tutorials, and production-ready code. This project demonstrates how to build end-to-end RAG applications using modern AI frameworks and vector databases.
+A comprehensive implementation of Retrieval-Augmented Generation (RAG) systems with practical examples, tutorials, and production-ready cod. This project demonstrates how to build end-to-end RAG applications using modern AI frameworks and vector databases.
 
 ## 🚀 Features
 
@@ -10,7 +10,7 @@ A comprehensive implementation of Retrieval-Augmented Generation (RAG) systems w
 - **LLM Integration**: Seamless integration with Groq, OpenAI, and other LLM providers
 - **Agentic RAG**: Implementation of agent-based RAG systems using LangGraph
 - **Typesense Integration**: Hybrid search capabilities with Typesense
-- **Interactive Tutorials**: Jupyter notebooks with step-by-step guides
+- **Interactive Tutorials**: Jupyter notebooks with step-by-step guides 
 
 ## 📋 Table of Contents
 
