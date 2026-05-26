@@ -3,7 +3,7 @@ from src.vectorstore import FaissVectorStore
 from src.search import RAGSearch
 
 # Example usage
-if __name__ == "__main__":
+if __name__ == "__main__": 
     
     docs = load_all_documents("data")
     store = FaissVectorStore("faiss_store")
